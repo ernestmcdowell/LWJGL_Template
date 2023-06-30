@@ -21,7 +21,7 @@ public class Main {
     }
 
     private void init(){
-        windowTitle = "Evo Sim 1.0";
+        windowTitle = "Hello World";
         windowManager = new WindowManager();
         windowManager.initWindow(1920, 1080, windowTitle);
         glUtils = new GLUtils(windowManager);
