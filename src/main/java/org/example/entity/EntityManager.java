@@ -1,4 +1,4 @@
-package org.navtech.sim.entity;
+package org.example.entity;
 
 public class EntityManager {
 }

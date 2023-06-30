@@ -1,8 +1,8 @@
-package org.navtech.sim.main;
+package org.example.main;
 
+import org.example.opengl.GLUtils;
+import org.example.window.WindowManager;
 import org.lwjgl.Version;
-import org.navtech.sim.opengl.GLUtils;
-import org.navtech.sim.window.WindowManager;
 
 import static org.lwjgl.glfw.GLFW.*;
 

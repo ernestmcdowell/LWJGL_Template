@@ -1,7 +1,8 @@
-package org.navtech.sim.opengl;
+package org.example.opengl;
 
+import org.example.window.WindowManager;
 import org.lwjgl.opengl.GL;
-import org.navtech.sim.window.WindowManager;
+
 import static org.lwjgl.glfw.GLFW.glfwMakeContextCurrent;
 import static org.lwjgl.glfw.GLFW.glfwSwapBuffers;
 import static org.lwjgl.opengl.GL11.*;

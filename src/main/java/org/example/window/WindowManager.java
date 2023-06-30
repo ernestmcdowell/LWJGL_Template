@@ -1,4 +1,4 @@
-package org.navtech.sim.window;
+package org.example.window;
 
 import org.lwjgl.glfw.GLFWErrorCallback;
 
